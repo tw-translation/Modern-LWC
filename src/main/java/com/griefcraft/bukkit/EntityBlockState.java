@@ -80,9 +80,8 @@ public class EntityBlockState implements BlockState{
     }
 
     @Override
-    @Deprecated
     public void setData(MaterialData materialData) {
-        entityBlock.setData(materialData.getData());
+        // Yeah, this does not work: entityBlock.setData(materialData.getData());
         // TODO: What to do with it, deprecated?
     }
 
@@ -157,11 +156,5 @@ public class EntityBlockState implements BlockState{
 	public MaterialData getData() {
 		// TODO Auto-generated method stub
 		return null;
-	}
-
-	@Override
-	public void setData(MaterialData arg0) {
-		// TODO Auto-generated method stub
-		
 	}
 }
