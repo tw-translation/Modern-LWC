@@ -1,11 +1,14 @@
 ![alt Future LWC](https://i.imgur.com/m7XcQUt.png)
 # Modern LWC
 
+***This plugin is being officially continued [here](https://github.com/Tsuser1/Modern-LWC).***
+
 The unofficial continuation of LWC with support for modern versions of Minecraft. You can download the ~~[latest stable version on Spigot](https://ci.zeusmainframe.ml/)~~ **(Currently not available during restructuring)** or the developer versions [on our Jenkins server](https://ci.zeusmainframe.ml/).
 
 ### Authors and Maintainers
   * Hidendra, Original author
-  * Tsuser1, Project Lead
+  * Me_Goes_Rawr, Original Project Lead
+  * Tsuser1, New Project Lead
   * theyapps, Collaborator
 
 ### Support
